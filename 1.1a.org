@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID: 423790ed-5024-4886-b499-d52f40da1536
+:ROAM_ORIGIN: 8238765f-8a28-4274-911d-e0f0549b466f
+:END:
+
+#+OPTIONS: title:nil tags:nil todo:nil ^:nil f:t
+#+LATEX_HEADER: \renewcommand\maketitle{} \usepackage[scaled]{helvet} \renewcommand\familydefault{\sfdefault}
+#+TITLE: Zettelkasten as a PKM
+#+FILETAGS: :ZK:ZETTELKASTEN:PKM:
+#+HTML:<details>
+* Zettelkasten as a PKM :ZK:ZETTELKASTEN:PKM:
+#+HTML:</details>
+- Zettelkasten makes a great [[id:4c9efdf5-fa21-403c-9cfe-90f2476d5108][Personal Knowledge Management: <<1.2>>]] due to its abilities to
+  - Writing notes in a non hierarchical way (remove the needs to put notes in a place)
+  - Atomizing notes (each notes contain a short but quality amount of information)
+  - Taking advantage of linking and referencing others notes
+  - Tracing back thoughts and quickly capture newly generated thoughts
+-----

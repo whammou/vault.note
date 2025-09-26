@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID: 1797c1f9-74d5-43a2-8098-742a126460fa
+:END:
+
+#+OPTIONS: title:nil tags:nil todo:nil ^:nil f:t
+#+LATEX_HEADER: \renewcommand\maketitle{} \usepackage[scaled]{helvet} \renewcommand\familydefault{\sfdefault}
+#+TITLE: Citations in the Academic World
+#+FILETAGS: :ZK:CITATION:
+#+HTML:<details>
+* Citations in the Academic World :ZK:CITATION:
+#+HTML:</details>
+A =citation= is the way to tell readers that certain material is coming from another source beside your work. It also gives readers the =information= find that source again, a citation includes:
+  - Information about the author
+  - The title of the the work
+  - The name and location of the company that publics your work
+  - The date your copy was published
+  - The page and numbering of the material borrowed

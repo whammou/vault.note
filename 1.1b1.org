@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID: acd898d3-96c5-4768-849a-1052a380b0f2
+:ROAM_ORIGIN: 77ddca40-1713-45ae-99cc-3e4ca28b6ee7
+:END:
+
+#+OPTIONS: title:nil tags:nil todo:nil ^:nil f:t
+#+LATEX_HEADER: \renewcommand\maketitle{} \usepackage[scaled]{helvet} \renewcommand\familydefault{\sfdefault}
+#+TITLE: Zettelkasten Backlink is Harmful
+#+FILETAGES: :ZK:ZETTELKASTEN:
+#+HTML:<details>
+* Zettelkasten Backlink is Harmful :ZK:ZETTELKASTEN:
+#+HTML:</details>
+
+

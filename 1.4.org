@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID: 92981451-4eaf-4d32-a2c4-afdaf455cba3
+:END:
+
+#+OPTIONS: title:nil tags:nil todo:nil ^:nil f:t
+#+LATEX_HEADER: \renewcommand\maketitle{} \usepackage[scaled]{helvet} \renewcommand\familydefault{\sfdefault}
+#+TITLE: Modularize Digital Notes
+#+FILETAGS: :ZK:NOTEAKING:NOTE:STRUCTURE:
+#+HTML:<details>
+
+* OUTLINE Modularize Digital Notes :ZK:NOTEAKING:NOTE:STRUCTURE:
+#+HTML:</details>
+

@@ -1,0 +1,25 @@
+:PROPERTIES:
+:ID: 4c9efdf5-fa21-403c-9cfe-90f2476d5108
+:END:
+
+#+OPTIONS: title:nil tags:nil todo:nil ^:nil f:t
+#+LATEX_HEADER: \renewcommand\maketitle{} \usepackage[scaled]{helvet} \renewcommand\familydefault{\sfdefault}
+#+TITLE: Personal Knowledge Management
+#+FILETAGS: :ZK:PKM:
+#+HTML:<details>
+
+* Personal Knowledge Management :ZK:PKM:
+#+HTML:</details>
+
+  #+BEGIN_QUOTE:
+  Personal knowledge management (PKM) is a process of collecting information that a person uses to gather, classify, store, search, retrieve and share knowledge in their daily activity and the way in which these processes support work activities
+  #+END_QUOTE:
+
+- A Personal knowledge management is about taking control of the endless stream of information we encounter daily
+ - Information in a PKM should be written with care and well processed
+ - PKM helps streamlining the process of collecting information over the internet and put then back in a meaningful configuration
+ - PKM information should *not* be scrapped directly from source but rather written in a well thought and carefully formatted
+- There are many different =formats= or =configurations= out there such as:
+  - *Zettelkasten -* A slip-box method developed by a German (Niklas LuhMann)
+  - *PARA -* A simple, comprehensive, yet extremely flexible system
+-----

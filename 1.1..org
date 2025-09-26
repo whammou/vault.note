@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID: 98c5668e-2ec8-40f8-88f7-ae26bab57559
+:ROAM_ORIGIN: acd898d3-96c5-4768-849a-1052a380b0f2
+:END:
+
+#+OPTIONS: title:nil tags:nil todo:nil ^:nil f:t
+#+LATEX_HEADER: \renewcommand\maketitle{} \usepackage[scaled]{helvet} \renewcommand\familydefault{\sfdefault}
+#+TITLE: Zettelkasten Index
+#+FILETAGS: :ZK:ZETTELKASTEN:
+#+HTML:<details>
+* Zettelkasten Index :ZK:ZETTELKASTEN:
+#+HTML:</details>
+
+

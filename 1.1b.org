@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID: 77ddca40-1713-45ae-99cc-3e4ca28b6ee7
+:ROAM_ORIGIN: 8238765f-8a28-4274-911d-e0f0549b466f
+:END:
+
+#+OPTIONS: title:nil tags:nil todo:nil ^:nil f:t
+#+LATEX_HEADER: \renewcommand\maketitle{} \usepackage[scaled]{helvet} \renewcommand\familydefault{\sfdefault}
+#+TITLE: Zettelkasten Notes Links
+#+FILETAGS: :ZK:ZETTELKASTEN:
+#+HTML:<details>
+
+* Zettelkasten Note Links :ZK:ZETTELKASTEN:
+#+HTML:</details>
