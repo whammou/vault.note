@@ -8,6 +8,6 @@
 #+FILETAGS: :ZK:NOTEAKING:NOTE:STRUCTURE:
 #+HTML:<details>
 
-* OUTLINE Modularize Digital Notes :ZK:NOTEAKING:NOTE:STRUCTURE:
+* OUTL Modularize Digital Notes :ZK:NOTEAKING:NOTE:STRUCTURE:
 #+HTML:</details>
 
