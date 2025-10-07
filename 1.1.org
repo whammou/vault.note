@@ -21,5 +21,5 @@
   - A note-taking system for research, writing and study
   - A personal knowledge management system
 -----
-* Footnotes
+* Footnotes :META:
 [fn:1] [[https://en.wikipedia.org/wiki/Zettelkasten]]
