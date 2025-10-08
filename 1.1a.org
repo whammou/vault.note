@@ -8,6 +8,7 @@
 #+TITLE: Zettelkasten as a PKM
 #+FILETAGS: :ZK:ZETTELKASTEN:PKM:
 #+HTML:<details>
+
 * Zettelkasten as a PKM :ZK:ZETTELKASTEN:PKM:
 #+HTML:</details>
 - Zettelkasten makes a great [[id:4c9efdf5-fa21-403c-9cfe-90f2476d5108][Personal Knowledge Management: <<1.2>>]] due to its abilities to

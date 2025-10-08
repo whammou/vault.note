@@ -18,8 +18,8 @@
 [[https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Zettelkasten_paper_schematic.png/250px-Zettelkasten_paper_schematic.png]]
 
 - Zettelkasten system that is often use as
-  - A note-taking system for research, writing and study
-  - A personal knowledge management system
+  + A note-taking system for research, writing and study
+  + A personal knowledge management system
 -----
 * Footnotes :META:
 [fn:1] [[https://en.wikipedia.org/wiki/Zettelkasten]]

@@ -16,10 +16,10 @@
   #+END_QUOTE:
 
 - A Personal knowledge management is about taking control of the endless stream of information we encounter daily
- - Information in a PKM should be written with care and well processed
- - PKM helps streamlining the process of collecting information over the internet and put then back in a meaningful configuration
- - PKM information should *not* be scrapped directly from source but rather written in a well thought and carefully formatted
+ + Information in a PKM should be written with care and well processed
+ + PKM helps streamlining the process of collecting information over the internet and put then back in a meaningful configuration
+ + PKM information should *not* be scrapped directly from source but rather written in a well thought and carefully formatted
 - There are many different =formats= or =configurations= out there such as:
-  - *Zettelkasten -* A slip-box method developed by a German (Niklas LuhMann)
-  - *PARA -* A simple, comprehensive, yet extremely flexible system
+  + *Zettelkasten -* A slip-box method developed by a German (Niklas LuhMann)
+  + *PARA -* A simple, comprehensive, yet extremely flexible system
 -----

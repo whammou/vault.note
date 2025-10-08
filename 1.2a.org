@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID: 89862521-3ca8-4d9c-b616-9f7a11ec5088
+:ROAM_ORIGIN: 4c9efdf5-fa21-403c-9cfe-90f2476d5108
+:END:
+
+#+OPTIONS: title:nil tags:nil todo:nil ^:nil f:t
+#+LATEX_HEADER: \renewcommand\maketitle{} \usepackage[scaled]{helvet} \renewcommand\familydefault{\sfdefault}
+#+TITLE: Choosing PKM Structure
+#+FILETAGS: :ZK:PKM
+#+HTML:<details>
+
+* Choosing PKM Structure :ZK:PKM:
+#+HTML:</details>
+There are a few types of /note-taking structure/ out there that comes with pros and cons
+  + When it comes to choosing a structure for =PKM=, keep in mind that there is no perfect system
+  + Understand in stead of finding the perfect system, focus on create a workflow that compliments the structure
+  + Mixing a bit of both is also a good way to choose a structure for your =PKM=
+
+#+NAME:Choosing strcuture tup
+#+BEGIN_QUOTE markdown
+[!TIP]
+Decide before hand to what degree you are willing to follow a system guideline helps tremendously in the =choosing process=
+#+END_QUOTE
