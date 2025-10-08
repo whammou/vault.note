@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID: cd5b74d8-c278-4393-9227-866b32f0f9de
+:ROAM_ORIGIN: 89862521-3ca8-4d9c-b616-9f7a11ec5088
+:END:
+
+#+OPTIONS: title:nil tags:nil todo:nil ^:nil f:t
+#+LATEX_HEADER: \renewcommand\maketitle{} \usepackage[scaled]{helvet} \renewcommand\familydefault{\sfdefault}
+#+TITLE: Categories vs Tags in a PKM system
+#+FILETAGS: :ZK:PKM:STRUCTURE:
+#+HTML:<details>
+
+* Categories vs Tags in a PKM system :ZK:PKM:STRUCTURE:
+#+HTML:</details>
+The difference between a =category= and =tag= are boiled down one being /hierarchical/ and the other /a-hierarchical/
+  + =category= seems to be more /organized/ than =tag= which all over the place. =category= fails when it comes to big archive due to simple fact that /there are no category that fits anything/
+  + =tag= seems a little overwhelming due to the sheer number of it. Each =object= has their own =tags= and can be mistakenly takes for =category=
+    * =tags= are more precise compares to =category= which feels like a broad umbrella [fn:1]
+    * =tags= can be thought as =category= if *not* careful
+  + And just like [[id:89862521-3ca8-4d9c-b616-9f7a11ec5088][Choosing PKM Structure <1.2a>]], choosing a /tag system/ is as important as choosing the structure for a =PKM=
+* Footnotes :META:
+[fn:1] [[https://zettelkasten.de/posts/object-tags-vs-topic-tags/][Topic Tags vs Object Tags @Zettelkasten-forum]] 
