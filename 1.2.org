@@ -4,11 +4,11 @@
 
 #+OPTIONS: title:nil tags:nil todo:nil ^:nil f:t
 #+LATEX_HEADER: \renewcommand\maketitle{} \usepackage[scaled]{helvet} \renewcommand\familydefault{\sfdefault}
-#+TITLE: Why Use a Personal Knowledge Management System
+#+TITLE: What is a Personal Knowledge Management System
 #+FILETAGS: :ZK:PKM:
 #+HTML:<details>
 
-* Why Use a Personal Knowledge Management System :ZK:PKM:
+* What is a Personal Knowledge Management System :ZK:PKM:
 #+HTML:</details>
 
   #+BEGIN_QUOTE:

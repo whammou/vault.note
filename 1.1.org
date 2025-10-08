@@ -4,10 +4,10 @@
 
 #+OPTIONS: title:nil tags:nil todo:nil ^:nil f:t
 #+LATEX_HEADER: \renewcommand\maketitle{} \usepackage[scaled]{helvet} \renewcommand\familydefault{\sfdefault}
-#+TITLE: What is The Zettelkasten System
+#+TITLE: What is Zettelkasten
 #+FILETAGS: :ZK:ZETTELKASTEN:
 #+HTML:<details>
-* What is Zettelkasten System :ZK:ZETTELKASTEN:
+* What is Zettelkasten :ZK:ZETTELKASTEN:
 #+HTML:</details>
 
   #+begin_quote:
