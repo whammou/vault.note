@@ -1,0 +1,33 @@
+:PROPERTIES:
+:ID: 2947c01d-6826-4e2b-a9f9-4386d7b9f612
+:ROAM_ORIGIN: cd5b74d8-c278-4393-9227-866b32f0f9de
+:END:
+
+#+OPTIONS: title:nil tags:nil todo:nil ^:nil f:t
+#+LATEX_HEADER: \renewcommand\maketitle{} \usepackage[scaled]{helvet} \renewcommand\familydefault{\sfdefault}
+#+TITLE: Using Orgmode Categories
+#+FILETAGS: :ZK:ORGMODE:STRUCTURE:
+#+HTML:<details>
+
+* Using Orgmode Categories :ZK:ORGMODE:STRUCTURE:
+#+HTML:</details>
+
+#+BEGIN_QUOTE
+Emacs orgmode does provide two basic deatures to assign shared topics to entities: =categories= and =tags=. Users might get confused when to use categories and when use tags for labeling things [fn:1]
+#+END_QUOTE
+
+- *Categories* - are a method for assigning single classifications. Each =heading= is part of exactly one =category=
+  + There are three different ways of assigning =categories=
+    1. Multi-file
+    2. One per file
+    3. =category= per project within a file
+  + In order to finger grain =categories=, It is possible to assign a =category= for any given sub-hierarchy
+
+#+NAME:parsing orgmode hierarchy
+#+BEGIN_QUOTE markdown
+[!NOTE]
+If you do not tamper with manually assigning =categories=, /orgmode/ is using the =filename= of the current file as =category= by default. For example =draft.org= is assigned category =draft=
+#+END_QUOTE
+
+* Footnotes :META:
+[fn:1] [[https://karl-voit.at/2019/09/25/categories-versus-tags/]]

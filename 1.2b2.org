@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID: 9b53c67d-1d02-4a40-a4fa-535fabac34f9
+:ROAM_ORIGIN: 2947c01d-6826-4e2b-a9f9-4386d7b9f612
+:END:
+
+#+OPTIONS: title:nil tags:nil todo:nil ^:nil f:t
+#+LATEX_HEADER: \renewcommand\maketitle{} \usepackage[scaled]{helvet} \renewcommand\familydefault{\sfdefault}
+#+TITLE: Using Orgmode Tags
+#+FILETAGS: :ZK:ORGMODE:STRUCTURE:
+#+HTML:<details>
+
+* Using Orgmode Tags :ZK:ORGMODE:STRUCTURE:
+#+HTML:</details>
+As opposed to [[id:2947c01d-6826-4e2b-a9f9-4386d7b9f612][Using Orgmode Categories <1.2b1>]], orgmode supports multi-classifications using =tags=
+
+- *Tags* - allow for /multi-classification/. A =heading= able to have a set of assigned =tags=. Furthermore, a =heading= is able to inherit the combined set of all =tags= assigned it parent =headings=
+
+#+NAME:Tips and Tricks
+#+BEGIN_QUOTE markdown
+[!TIP]
+Keep the set of =tags= as small as possible. User might lose many advantages of =tags= and overview with hundred of =tags=. If they use too many =tags=, might as well use text search instead of =tags=
+#+END_QUOTE
