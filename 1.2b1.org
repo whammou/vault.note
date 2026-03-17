@@ -29,5 +29,5 @@ Emacs orgmode does provide two basic deatures to assign shared topics to entitie
 If you do not tamper with manually assigning =categories=, /orgmode/ is using the =filename= of the current file as =category= by default. For example =draft.org= is assigned category =draft=
 #+END_QUOTE
 
-* Footnotes :META:
+* Footnotes :#Meta:
 [fn:1] [[https://karl-voit.at/2019/09/25/categories-versus-tags/]]
