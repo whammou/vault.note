@@ -6,10 +6,10 @@
 #+OPTIONS: title:nil tags:nil todo:nil ^:nil f:t
 #+LATEX_HEADER: \renewcommand\maketitle{} \usepackage[scaled]{helvet} \renewcommand\familydefault{\sfdefault}
 #+TITLE: Using Orgmode Categories
-#+FILETAGS: :ZK:ORGMODE:STRUCTURE:
+#+FILETAGS: :ZK:@Orgmode:_Structure:
 #+HTML:<details>
 
-* Using Orgmode Categories :ZK:ORGMODE:STRUCTURE:
+* Using Orgmode Categories :ZK:@Orgmode:_Structure:
 #+HTML:</details>
 
 #+BEGIN_QUOTE

@@ -9,7 +9,7 @@
 #+FILETAGS: :ZK:PKM:STRUCTURE
 #+HTML:<details>
 
-* Choosing PKM Structure :ZK:PKM:STRUCTURE:
+* Choosing PKM Structure :ZK:PKM:_Structure:
 #+HTML:</details>
 There are a few types of /note-taking structure/ out there that comes with pros and cons
   + When it comes to choosing a structure for =PKM=, keep in mind that there is no perfect system

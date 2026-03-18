@@ -6,10 +6,10 @@
 #+OPTIONS: title:nil tags:nil todo:nil ^:nil f:t
 #+LATEX_HEADER: \renewcommand\maketitle{} \usepackage[scaled]{helvet} \renewcommand\familydefault{\sfdefault}
 #+TITLE: Using Orgmode Tags
-#+FILETAGS: :ZK:ORGMODE:STRUCTURE:
+#+FILETAGS: :ZK:@Orgmode:_Structure:
 #+HTML:<details>
 
-* Using Orgmode Tags :ZK:ORGMODE:STRUCTURE:
+* Using Orgmode Tags :ZK:@Orgmode:_Structure:
 #+HTML:</details>
 As opposed to [[id:2947c01d-6826-4e2b-a9f9-4386d7b9f612][Using Orgmode Categories <1.2b1>]], orgmode supports multi-classifications using =tags=
 

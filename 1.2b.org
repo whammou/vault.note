@@ -6,10 +6,10 @@
 #+OPTIONS: title:nil tags:nil todo:nil ^:nil f:t
 #+LATEX_HEADER: \renewcommand\maketitle{} \usepackage[scaled]{helvet} \renewcommand\familydefault{\sfdefault}
 #+TITLE: Categories vs Tags in a PKM system
-#+FILETAGS: :ZK:PKM:STRUCTURE:
+#+FILETAGS: :ZK:PKM:_Structure:
 #+HTML:<details>
 
-* Categories vs Tags in a PKM system :ZK:PKM:STRUCTURE:
+* Categories vs Tags in a PKM system :ZK:PKM:_Structure:
 #+HTML:</details>
 The difference between a =category= and =tag= are boiled down one being /hierarchical/ and the other /a-hierarchical/
   + =category= seems to be more /organized/ than =tag= which all over the place. =category= fails when it comes to big archive due to simple fact that /there are no category that fits anything/
