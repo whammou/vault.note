@@ -3,7 +3,6 @@
 :END:
 
 #+OPTIONS: title:nil tags:nil todo:nil ^:nil f:t
-#+LATEX_HEADER: \renewcommand\maketitle{} \usepackage[scaled]{helvet} \renewcommand\familydefault{\sfdefault}
 #+TITLE: What is a Personal Knowledge Management System
 #+FILETAGS: :ZK:PKM:
 #+HTML:<details>

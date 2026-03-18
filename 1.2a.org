@@ -4,7 +4,6 @@
 :END:
 
 #+OPTIONS: title:nil tags:nil todo:nil ^:nil f:t
-#+LATEX_HEADER: \renewcommand\maketitle{} \usepackage[scaled]{helvet} \renewcommand\familydefault{\sfdefault}
 #+TITLE: Choosing PKM Structure
 #+FILETAGS: :ZK:PKM:STRUCTURE
 #+HTML:<details>

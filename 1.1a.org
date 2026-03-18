@@ -4,7 +4,6 @@
 :END:
 
 #+OPTIONS: title:nil tags:nil todo:nil ^:nil f:t
-#+LATEX_HEADER: \renewcommand\maketitle{} \usepackage[scaled]{helvet} \renewcommand\familydefault{\sfdefault}
 #+TITLE: Zettelkasten Makes a Good PKM
 #+FILETAGS: :ZK:ZETTELKASTEN:PKM:
 #+HTML:<details>

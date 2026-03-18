@@ -4,7 +4,6 @@
 :END:
 
 #+OPTIONS: title:nil tags:nil todo:nil ^:nil f:t
-#+LATEX_HEADER: \renewcommand\maketitle{} \usepackage[scaled]{helvet} \renewcommand\familydefault{\sfdefault}
 #+TITLE: Using Orgmode Tags
 #+FILETAGS: :ZK:@Orgmode:_Structure:
 #+HTML:<details>
