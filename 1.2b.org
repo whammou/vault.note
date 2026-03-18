@@ -17,5 +17,5 @@ The difference between a =category= and =tag= are boiled down one being /hierarc
     * =tags= are more precise compares to =category= which feels like a broad umbrella [fn:1]
     * =tags= can be thought as =category= if *not* careful
   + And just like [[id:89862521-3ca8-4d9c-b616-9f7a11ec5088][Choosing PKM Structure <1.2a>]], choosing a /tag system/ is as important as choosing the structure for a =PKM=
-* Footnotes :#Meta:
+* Footnotes :meta:
 [fn:1] [[https://zettelkasten.de/posts/object-tags-vs-topic-tags/][Topic Tags vs Object Tags @Zettelkasten-forum]] 
