@@ -5,10 +5,10 @@
 
 #+OPTIONS: title:nil tags:nil todo:nil ^:nil f:t
 #+TITLE: Using Orgmode Categories
-#+FILETAGS: :ZK:subOrgmode:_Structure:
+#+FILETAGS: :ZK:subOrgmode:opStructure:
 #+HTML:<details>
 
-* Using Orgmode Categories :ZK:subOrgmode:_Structure:
+* Using Orgmode Categories :ZK:subOrgmode:opStructure:
 #+HTML:</details>
 
 #+BEGIN_QUOTE

@@ -5,10 +5,10 @@
 
 #+OPTIONS: title:nil tags:nil todo:nil ^:nil f:t
 #+TITLE: Categories vs Tags in a PKM system
-#+FILETAGS: :ZK:PKM:_Structure:
+#+FILETAGS: :ZK:PKM:opStructure:
 #+HTML:<details>
 
-* Categories vs Tags in a PKM system :ZK:PKM:_Structure:
+* Categories vs Tags in a PKM system :ZK:PKM:opStructure:
 #+HTML:</details>
 The difference between a =category= and =tag= are boiled down one being /hierarchical/ and the other /a-hierarchical/
   + =category= seems to be more /organized/ than =tag= which all over the place. =category= fails when it comes to big archive due to simple fact that /there are no category that fits anything/
