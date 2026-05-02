@@ -9,11 +9,13 @@
 * What is Zettelkasten :ZK:ZETTELKASTEN:
 #+HTML:</details>
 
+#+name: description
   #+begin_quote:
   Zettelkasten or card file consists of small items of information stored on paper slips or cards, that maybe linked with each others through linking systems
   #+end_quote
   Wikipedia, Zettelkasten [fn:1]
 
+#+name: zettelkasten method
 #+begin_html html
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Zettelkasten_paper_schematic.png/250px-Zettelkasten_paper_schematic.png" style="width:50%;"/>
 #+end_html
